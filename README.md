@@ -10,6 +10,8 @@ Setup
 
 Copy `Kmrov.pm` to `/usr/share/shutter/resources/system/upload_plugins/upload/`.
 
+Then `chmod +x /usr/share/shutter/resources/system/upload_plugins/upload/Kmrov.pm` if needed.
+
 
 Usage
 -----
